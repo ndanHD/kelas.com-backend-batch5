@@ -1,0 +1,16 @@
+{
+  "name": "kelas.com-backend-batch5",
+  "version": "1.0.0",
+  "description": "kelas.com backend batch 5",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alamul huda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.5.2"
+  }
+}
